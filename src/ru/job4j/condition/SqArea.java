@@ -14,4 +14,3 @@ public class SqArea {
         System.out.println("square = " + result);
     }
 }
-// h = p / (2 * (k + 1)); L = h * k; s = L * h;
