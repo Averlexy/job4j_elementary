@@ -2,7 +2,7 @@ package ru.job4j.condition;
 
 public class Game {
     public static void menu(String name) {
-        name = "tetris";
+
         if (name.equals("super mario")) { /* сравниваем переменную name с "super mario" */
             System.out.println("Start - super mario");
         }
@@ -18,3 +18,5 @@ public class Game {
         Game.menu("tanks");
     }
 }
+
+
